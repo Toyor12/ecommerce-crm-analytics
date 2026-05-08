@@ -21,3 +21,5 @@ Thumbs.db
 
 # Power BI cache
 *.pbix.lock
+data/raw/
+data/cleaned/
