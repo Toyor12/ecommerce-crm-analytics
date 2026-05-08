@@ -61,14 +61,12 @@ ecommerce-crm-analytics/
 
 ---
 
-## Key Findings
+## Key Findings## Key Findings
 
-> *(Fill in with your actual results once analysis is complete)*
-
-- **RFM Segmentation:** X% of customers classified as Champions or Loyal, contributing Y% of total revenue
-- **Churn Prediction:** Model achieved AUC of X.XX, identifying Z% of churned customers correctly
-- **CLV Modelling:** Top 20% of customers by CLV account for approximately X% of projected revenue
-- **Campaign Evaluation:** Promotional campaign drove X% uplift in conversion vs control group (p < 0.05)
+- **RFM Segmentation:** 9 customer segments identified across 93,349 customers — Champions represent the highest avg CLV at 310 BRL, while Loyal Customers contribute the largest revenue share at 22%
+- **Churn Prediction:** XGBoost model achieved AUC of 0.997, identifying 55,852 high-risk customers with recency as the dominant churn driver
+- **CLV Modelling:** Total historical CLV of 15.4M BRL across all customers — top 20% of customers contribute 55% of total revenue
+- **Campaign Evaluation:** Re-engagement campaign delivered 105.6% conversion uplift vs control group (11.9% vs 5.8%), generating 200,507 BRL additional revenue (p < 0.0001)
 
 ---
 
