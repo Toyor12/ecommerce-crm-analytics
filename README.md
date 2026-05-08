@@ -108,15 +108,16 @@ Run notebooks 01 through 05 in sequence.
 | 05_campaign_evaluation | Simulate campaign cohorts and run A/B test analysis |
 
 ---
-
 ## Dashboard
 
-The Power BI dashboard contains 4 pages:
+The dashboard is built in Google Looker Studio and contains 4 pages:
 
-1. **Customer Overview** — total customers, orders, revenue, geographic distribution
-2. **RFM Segments** — segment breakdown, revenue contribution, customer counts
-3. **Churn Risk** — churn probability distribution, high-risk segment profiles
-4. **Campaign Performance** — conversion rates, A/B test results, revenue uplift
+1. **Customer Overview** — total customers, orders, revenue, monthly trend, category breakdown
+2. **RFM Segments** — segment distribution, revenue share, avg CLV by segment
+3. **Churn Risk** — risk distribution, churn rate by segment, high-risk customer count
+4. **Campaign Performance** — A/B test results, conversion rate and revenue uplift by group
+
+**[View Live Dashboard →](https://datastudio.google.com/reporting/6689c78c-483f-4700-9f73-e4186cd20d9a)**
 
 ---
 
