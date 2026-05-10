@@ -4,6 +4,8 @@
 
 ![Dashboard Preview](dashboard/dashboard_preview.png)
 
+<img width="1440" height="900" alt="Screenshot 2026-05-10 at 13 23 53" src="https://github.com/user-attachments/assets/a532de0c-f9bd-4cde-b51a-b8d686e5b2f2" />
+
 ---
 
 ## Business Context
@@ -117,7 +119,8 @@ The dashboard is built in Google Looker Studio and contains 4 pages:
 3. **Churn Risk** — risk distribution, churn rate by segment, high-risk customer count
 4. **Campaign Performance** — A/B test results, conversion rate and revenue uplift by group
 
-**[View Live Dashboard →](https://datastudio.google.com/reporting/6689c78c-483f-4700-9f73-e4186cd20d9a)**
+**[View Live Dashboard →](https://datastudio.google.com/reporting/6689c78c-483f-4700-9f73-e4186c<img width="1440" height="900" alt="Screenshot 2026-05-10 at 13 23 53" src="https://github.com/user-attachments/assets/a853c60c-7f57-4269-893a-eee51e57140b" />
+d20d9a)**
 
 ---
 
