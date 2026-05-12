@@ -1,6 +1,6 @@
 # E-Commerce CRM Analytics Pipeline
 
-> End-to-end CRM analytics pipeline covering customer segmentation, churn prediction, CLV modelling, and campaign evaluation — built with Python, SQL, and Power BI.
+> End-to-end CRM analytics pipeline: RFM segmentation, churn prediction (XGBoost AUC 0.997), CLV modelling, and A/B campaign evaluation on 100K+ orders — Python, SQL, scikit-learn, XGBoost, Power BI.
 
 ![Dashboard Preview](dashboard/dashboard_preview.png)
 
